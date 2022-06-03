@@ -1,3 +1,5 @@
+** 실수로 지난 주에 week1 업로드 중 'CoLab_TermProj_2022_3.ipynb'(3번째 과제 파일)과 'project-week1.ipynb'(project week1 주차 파일)이 서로 내용이 바뀌어 올라갔습니다. 죄송합니다!**
+
 생물정보학 및 실습 1 실습 프로젝트
 목표 : Figure 2E 구현하기
 
