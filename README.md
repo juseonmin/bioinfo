@@ -12,8 +12,11 @@ mirlet7g 등과 상호작용하는 것으로 잘 알려져 있던 Lin28A가 miRN
 week 1 - 전반적인 내용 파악 및 전체 genome 대상으로 shannon entropy 구하기
          FDR을 위해 read depth 50 이상, CRES(shannon entropy) 0.8로 cut-off 해줌 
        
-       
-week 2 - 위에서 구한 data를 기반으로 WebLogo 제작 및 찾은 binding site를 중심으로 하여금 주변 (-2~+3) seq 보기
+week 2 - shannon entropy 구하는 방법 다시 점검 및 재처리
+         주변 베이스 얻는 방법 고안 
+         
+         
+week 3 - 위에서 구한 data를 기반으로 WebLogo 제작 및 찾은 binding site를 중심으로 하여금 주변 (-2~+3) seq 보기
          이를 통해 pattern 찾기
          또, 본격적인 2E를 위해 WC-pair co-occurrence frequency 계산하기 ~ randomly permuted sequences와 비교하기
          
